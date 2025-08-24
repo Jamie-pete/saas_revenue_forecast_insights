@@ -6,10 +6,10 @@ from datetime import datetime
 import openai
 
 
-st.set_page_config(page_title="SaaS Revenue Forecasting & GPT Business Advisor",
+st.set_page_config(page_title="SaaS Revenue Forecasting & Business Advisor",
                    layout="wide")
 
-st.title("📊 SaaS Revenue Forecasting & GPT Business Advisor")
+st.title("📊 SaaS Revenue Forecasting & Business Advisor")
 
 
 @st.cache_data
